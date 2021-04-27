@@ -55,6 +55,7 @@ const Navbar = class extends React.Component {
               <span />
             </div>
           </div>
+          
           <div
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}
